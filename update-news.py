@@ -20,7 +20,7 @@ NEWS_URL = "https://newsapi.org/v2/top-headlines"
 COUNTRY = "kr"
 CATEGORY = "technology"
 GPT_PROMPT = "다음 뉴스 기사를 간단하게 요약해 주세요:\n{news}"
-
+abc=2
 
 def get_news():
     """NewsAPI에서 한국 관련 뉴스 가져오기 (파라미터 제거 버전)"""
