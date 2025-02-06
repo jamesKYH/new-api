@@ -58,7 +58,7 @@ def update_readme():
         news_summary += f"**{i + 1}. [{title}]({url})**\n> {desc}\n\n"
 
     now = datetime.utcnow().strftime("%Y-%m-%d %H:%M:%S UTC")
-    readme_content = f"""# 📢 최신 뉴스 요약 (자동 업데이트)\n\n## 📰 오늘의 뉴스\n{news_summary}\n⏳ 업데이트 시간: {now}\n"""
+    readme_content = f"""# 📢 한국의 최신 뉴스 (자동 업데이트)\n\n## 📰 오늘의 뉴스\n{news_summary}\n⏳ 업데이트 시간: {now}\n"""
 
     try:
         with open("README.md", "w", encoding="utf-8") as file:
