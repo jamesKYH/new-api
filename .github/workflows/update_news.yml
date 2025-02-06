@@ -2,8 +2,8 @@ name: Update News in README
 
 on:
   schedule:
-    - cron: "0/3 * * *" # 매일 UTC 9시 (KST 18시)
-  workflow_dispatch: # 수동 실행 가능
+    - cron: "*/3 * * * *"  # 3분마다 실행 (테스트용)
+  workflow_dispatch:  # 수동 실행 가능
 
 jobs:
   update-readme:
@@ -20,6 +20,12 @@ jobs:
       - name: 필수 패키지 설치
         run: |
           pip install requests python-dotenv openai
+
+      - name: 환경 변수 확인 (디버깅)
+        run: |
+          echo "🔍 환경 변수 설정 확인"
+          echo "NEWS_API_KEY=${{ secrets.NEWS_API_KEY }}"
+          echo "OPENAI_API_KEY=${{ secrets.OPENAI_API_KEY }}"
 
       - name: 최신 뉴스 업데이트
         run: python update_news.py
