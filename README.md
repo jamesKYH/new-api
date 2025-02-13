@@ -25,4 +25,4 @@ The post 벤처기업협회, ‘SusHi Tech Tokyo 2025’ 참가기업 모집 app
 The post ‘UKF 82 스타트업 서밋 2025’ 개최, 한국 스타트업 투자유치 IR appeared first on 벤처스퀘어.
 
 
-⏳ 업데이트 시간: 2025-02-13 17:35:06 KST
+⏳ 업데이트 시간: 2025-02-13 17:49:03 KST
