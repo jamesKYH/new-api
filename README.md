@@ -29,4 +29,4 @@ The post 앤트로픽, ‘한국 빌더 서밋’ 개최 appeared first on 벤�
 The post ‘웍스AI’, 한국 기업 환경에 최적화된 올인원 AI 플랫폼 선보여 appeared first on 벤처스퀘어.
 
 
-⏳ 업데이트 시간: 2025-03-06 20:48:45 KST
+⏳ 업데이트 시간: 2025-03-06 21:17:45 KST
