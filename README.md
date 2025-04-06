@@ -22,4 +22,4 @@ The post 버추어스, 한국 게임 개발 스튜디오 설립 appeared first o
 The post 코윈테크, 한국 사업 담당 대표로 최현순 선임 appeared first on 벤처스퀘어.
 
 
-⏳ 업데이트 시간: 2025-04-06 21:30:11 KST
+⏳ 업데이트 시간: 2025-04-06 22:00:33 KST
