@@ -22,4 +22,4 @@ The post 딥서치, 트위그팜과 업무협약 체결 appeared first on 벤처
 The post 시큐리타스 코리아, ‘K-Hospital Fair 2025’ 참가 appeared first on 벤처스퀘어.
 
 
-⏳ 업데이트 시간: 2025-09-27 08:49:17 KST
+⏳ 업데이트 시간: 2025-09-27 09:50:50 KST
