@@ -22,4 +22,4 @@ The post 한국 그루브, 코어시큐리티와 전략적 업무협약 체결 a
 The post 남도마켓, UK Charm Enterprises와 MOU 체결.. “K-도매 글로벌 진출” appeared first on 벤처스퀘어.
 
 
-⏳ 업데이트 시간: 2025-10-03 13:51:21 KST
+⏳ 업데이트 시간: 2025-10-03 14:14:51 KST
