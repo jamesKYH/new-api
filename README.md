@@ -1,28 +1,25 @@
 # 📢 한국의 최신 뉴스 (자동 업데이트)
 
 ## 📰 오늘의 뉴스
-**1. [법무법인 디엘지, 한국 딜로이트 그룹과 ‘성공적인 US IPO 세미나’ 공동 개최](https://www.venturesquare.net/1004199)**
+**1. [SBVA 이준표 대표, 오픈AI 샘 올트먼 CEO와 ‘한국 AI 생태계 협력’ 논의](https://www.venturesquare.net/1007755)**
+> SBVA(에스비브이에이)의 이준표 대표가 1일 서울 서초구 SBVA 사무실에서 오픈AI의 최고경영자(CEO) 샘 올트먼과 만나 한국 인공지능(AI) 생태계 발전 방안에 대해 논의했다고 밝혔다.
+The post SBVA 이준표 대표, 오픈AI 샘 올트먼 CEO와 ‘한국 AI 생태계 협력’ 논의 appeared first on 벤처스퀘어.
+
+**2. [법무법인 디엘지, 한국 딜로이트 그룹과 ‘성공적인 US IPO 세미나’ 공동 개최](https://www.venturesquare.net/1004199)**
 > 법무법인 디엘지와 한국 딜로이트 그룹은 오는 18일 오후 2시 서울 여의도 국제금융센터 Two IFC 더 포럼에서 ‘성공적인 미국(US) IPO를 위한 세미나’를 공동 개최한다고 11일 밝혔다.
 The post 법무법인 디엘지, 한국 딜로이트 그룹과 ‘성공적인 US IPO 세미나’ 공동 개최 appeared first on 벤처스퀘어.
 
-**2. [딥서치, 트위그팜과 업무협약 체결](https://www.venturesquare.net/1005990)**
+**3. [딥서치, 트위그팜과 업무협약 체결](https://www.venturesquare.net/1005990)**
 > 딥서치와 트위그팜이 23일 국내 주식시장 정보의 글로벌 확산을 위한 전략적 업무협약(MOU)을 체결했다.
 The post 딥서치, 트위그팜과 업무협약 체결 appeared first on 벤처스퀘어.
 
-**3. [한국 그루브, 코어시큐리티와 전략적 업무협약 체결](https://www.venturesquare.net/1002493)**
+**4. [한국 그루브, 코어시큐리티와 전략적 업무협약 체결](https://www.venturesquare.net/1002493)**
 > 한국 그루브(Gruve Korea)는 코어시큐리티(Core Security)와 전략적 업무 협약(MOU)을 체결했다고 2일 밝혔다.
 The post 한국 그루브, 코어시큐리티와 전략적 업무협약 체결 appeared first on 벤처스퀘어.
 
-**4. [남도마켓, UK Charm Enterprises와 MOU 체결.. “K-도매 글로벌 진출”](https://www.venturesquare.net/1005730)**
+**5. [남도마켓, UK Charm Enterprises와 MOU 체결.. “K-도매 글로벌 진출”](https://www.venturesquare.net/1005730)**
 > 남도마켓은 지난 9월 16일, 영국 법인 UK Charm Enterprises Ltd와 ‘K-도매 글로벌 진출 협력’을 위한 양해각서(MOU)를 체결했다고 밝혔다.
 The post 남도마켓, UK Charm Enterprises와 MOU 체결.. “K-도매 글로벌 진출” appeared first on 벤처스퀘어.
 
-**5. [트럼프 “한국 대미투자 3500억달러는 선불”](https://www.khan.co.kr/article/202509260718001)**
-> 이재명 대통령이 지난달 25일(현지시간) 미국 워싱턴DC 백악관에서 열린 한미정상회담에서 트럼프 미국 대통령의 발언을 듣고 있다.김창길 기자
 
-도널드 트럼프 미국 대통령이 무역 합의에 따라 한국이 미국에 투자할 금액 3500억달러(약 490조원)가 “선불”로 지불돼야 한다고 말했다.
-
-트럼프 대통령은 25일(현지시간) 워싱턴 백악관에서 중국 동영상 플랫폼 ···
-
-
-⏳ 업데이트 시간: 2025-10-03 09:50:15 KST
+⏳ 업데이트 시간: 2025-10-03 11:16:56 KST
