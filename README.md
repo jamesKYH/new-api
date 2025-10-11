@@ -13,16 +13,13 @@ The post 법무법인 디엘지, 한국 딜로이트 그룹과 ‘성공적인 U
 > 딥서치와 트위그팜이 23일 국내 주식시장 정보의 글로벌 확산을 위한 전략적 업무협약(MOU)을 체결했다.
 The post 딥서치, 트위그팜과 업무협약 체결 appeared first on 벤처스퀘어.
 
-**4. [남도마켓, UK Charm Enterprises와 MOU 체결.. “K-도매 글로벌 진출”](https://www.venturesquare.net/1005730)**
+**4. [트립비토즈 정지하 대표, ‘WiT Singapore 2025’ 패널 참가](https://www.venturesquare.net/1008110)**
+> 트립비토즈(Tripbtoz Inc.)의 정지하 대표가 지난 10월 7일부터 9일까지 싱가포르에서 열린 글로벌 여행 테크 컨퍼런스 ‘WiT Singapore 2025’에 패널로 참가해 차세대 OTA(Online Travel Agency) 모델과 아시아 여행 산업의 진화 ...
+The post 트립비토즈 정지하 대표, ‘WiT Singapore 2025’ 패널 참가 appeared first on 벤처스퀘어.
+
+**5. [남도마켓, UK Charm Enterprises와 MOU 체결.. “K-도매 글로벌 진출”](https://www.venturesquare.net/1005730)**
 > 남도마켓은 지난 9월 16일, 영국 법인 UK Charm Enterprises Ltd와 ‘K-도매 글로벌 진출 협력’을 위한 양해각서(MOU)를 체결했다고 밝혔다.
 The post 남도마켓, UK Charm Enterprises와 MOU 체결.. “K-도매 글로벌 진출” appeared first on 벤처스퀘어.
 
-**5. [트럼프 “한국 대미투자 3500억달러는 선불”](https://www.khan.co.kr/article/202509260718001)**
-> 이재명 대통령이 지난달 25일(현지시간) 미국 워싱턴DC 백악관에서 열린 한미정상회담에서 트럼프 미국 대통령의 발언을 듣고 있다.김창길 기자
 
-도널드 트럼프 미국 대통령이 무역 합의에 따라 한국이 미국에 투자할 금액 3500억달러(약 490조원)가 “선불”로 지불돼야 한다고 말했다.
-
-트럼프 대통령은 25일(현지시간) 워싱턴 백악관에서 중국 동영상 플랫폼 ···
-
-
-⏳ 업데이트 시간: 2025-10-11 11:36:12 KST
+⏳ 업데이트 시간: 2025-10-11 12:15:46 KST
