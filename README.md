@@ -22,4 +22,4 @@ The post 트립비토즈 정지하 대표, ‘WiT Singapore 2025’ 패널 참�
 The post 남도마켓, UK Charm Enterprises와 MOU 체결.. “K-도매 글로벌 진출” appeared first on 벤처스퀘어.
 
 
-⏳ 업데이트 시간: 2025-10-12 01:08:56 KST
+⏳ 업데이트 시간: 2025-10-12 01:32:42 KST
