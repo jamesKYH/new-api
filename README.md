@@ -22,4 +22,4 @@ The post 남도마켓, UK Charm Enterprises와 MOU 체결.. “K-도매 글로�
 The post 벤처스퀘어, 뉴욕서 스타트업 글로벌 협력 쇼케이스 개최 appeared first on 벤처스퀘어.
 
 
-⏳ 업데이트 시간: 2025-10-13 07:37:45 KST
+⏳ 업데이트 시간: 2025-10-13 07:50:34 KST
