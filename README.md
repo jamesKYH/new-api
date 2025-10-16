@@ -22,4 +22,4 @@ The post 딥서치, 트위그팜과 업무협약 체결 appeared first on 벤처
 The post 트립비토즈 정지하 대표, ‘WiT Singapore 2025’ 패널 참가 appeared first on 벤처스퀘어.
 
 
-⏳ 업데이트 시간: 2025-10-17 04:53:16 KST
+⏳ 업데이트 시간: 2025-10-17 05:22:16 KST
