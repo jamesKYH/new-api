@@ -22,4 +22,4 @@ The post 스텔업, 유어케이스와 업무협약 체결 appeared first on 벤
 The post 딥서치, 트위그팜과 업무협약 체결 appeared first on 벤처스퀘어.
 
 
-⏳ 업데이트 시간: 2025-10-24 05:34:31 KST
+⏳ 업데이트 시간: 2025-10-24 05:47:47 KST
