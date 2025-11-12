@@ -22,4 +22,4 @@ The post 스텔업, 유어케이스와 업무협약 체결 appeared first on 벤
 The post 국가AI전략위 임문영 부위원장, 앤트로픽과 면담 진행 appeared first on 벤처스퀘어.
 
 
-⏳ 업데이트 시간: 2025-11-13 02:55:46 KST
+⏳ 업데이트 시간: 2025-11-13 03:35:37 KST
