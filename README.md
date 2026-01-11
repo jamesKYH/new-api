@@ -21,4 +21,4 @@ The post 콕스웨이브, OpenAI와 공동 해커톤 개최 appeared first on �
 The post 산돌, 2025 벤처창업진흥유공 포상 국무총리표창 수상 appeared first on 벤처스퀘어.
 
 
-⏳ 업데이트 시간: 2026-01-11 18:58:44 KST
+⏳ 업데이트 시간: 2026-01-11 19:32:32 KST
