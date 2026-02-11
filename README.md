@@ -21,4 +21,4 @@ The post 피알원, PROI Worldwide와 한국 독점 파트너십 체결 appeared
 The post 법무법인 원, ABLJ ‘2025 한국 로펌 어워드’ 3개 부문 수상 appeared first on 벤처스퀘어.
 
 
-⏳ 업데이트 시간: 2026-02-11 14:44:11 KST
+⏳ 업데이트 시간: 2026-02-11 15:45:09 KST
